@@ -1,11 +1,14 @@
-# agrihack
+# Soil n' Sow
 
-Repository for shareable code for Thoughtworks Hackathon.
+Repository containing required code for Thoughtworks Hackathon.
 
-## Problem Statement
+## Files contained
+1. app.py - for the application
+2. Deep Learning Soil.ipynb - for Image Classification
+3. hack.R - for multilevel classification
 
-Agriculture
+## Important Links
 
-## Solution
+![PPT](https://drive.google.com/open?id=1Qqly5WAqmlNzRzff70BFgW2ImsgfBHFLdt4fLj5NSC4)
+![Training Data for Image Classification](https://drive.google.com/open?id=1hjxRwQIjzK6IdmhaiyRIBbl0lknUPlqx)
 
-Let's see :)
