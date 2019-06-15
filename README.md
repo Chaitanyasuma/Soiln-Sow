@@ -9,5 +9,5 @@ Repository containing required code for Thoughtworks Hackathon.
 
 ## Important Links
 
-![PPT](https://docs.google.com/presentation/d/1Qqly5WAqmlNzRzff70BFgW2ImsgfBHFLdt4fLj5NSC4/edit?usp=sharing)
+[PPT](https://docs.google.com/presentation/d/1Qqly5WAqmlNzRzff70BFgW2ImsgfBHFLdt4fLj5NSC4/edit?usp=sharing)
 
